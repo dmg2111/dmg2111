@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dipak Gondaliys
+- 👀 I’m interested in ...
+- 🌱 I'm software developer 
+- ☀  c#, .net, .netcore, javascript, jqery, sql
